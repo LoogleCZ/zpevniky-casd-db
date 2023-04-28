@@ -8,7 +8,7 @@
     <copyright></copyright>
     <hymn_number>34</hymn_number>
     <lyrics><![CDATA[
-[B]
+[B1]
 Wo-ou, Wo-ou, o-o-o-o
 Wo-ou, Wo-ou, o-o-o-o
 Wo-ou, Wo-ou, o-o-o-o
@@ -39,7 +39,7 @@ nepřátele udolal.
 Nemusím se nikdy vzdát.
 Nemusím se vzdát!
 
-[Coda]
+[B2]
 Zpráva je to dobrá,
 Ty jsi zvolil drsný kříž
 Zpráva je to dobrá,
@@ -52,8 +52,8 @@ no tak, nemusíš se vzdát.
 
 ]]>
     </lyrics>
-    <presentation>B V1 C B V2 C Coda C C B</presentation>
-    <author>Ed Cash & Rend Collective</author>
+    <presentation>B1 V1 C B1 V2 C B2 C C B1</presentation>
+    <author>Ed Cash &amp; Rend Collective</author>
     <ccli></ccli>
     <capo print="false"></capo>
     <key></key>
