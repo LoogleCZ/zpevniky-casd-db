@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=_OA8tcwT-5w
+-->
 <song>
     <title>Král lásky</title>
     <copyright></copyright>
@@ -17,6 +21,13 @@ On duši mou rád vodí,
 a k pastvinám vždy zeleným,
 svým pokrmem mne sytí.
 
+[C1]
+Tvoje láska, vládne v srdci mém,
+navždy stálá, nemusím se bát.
+V temném údolí i v horách vysokých
+vším provede mne pastýř můj
+vším provede mne pastýř můj
+
 [V3]
 Já bloudil jsem, byl ztracený,
 On hledal mne svou láskou
@@ -29,6 +40,16 @@ já nebudu se báti.
 Tvůj prut a hůl mne podrží
 a na cestu mne vrátí.
 
+[B]
+Ó - ó - ó, haleluja, haleluja!
+Ó - ó - ó, haleluja, haleluja!
+
+[C2]
+Tvoje láska, vládne v srdci mém,
+navždy stálá, nemusím se bát.
+V temném údolí i v horách vysokých
+vším provede mne pastýř můj
+
 [V5]
 Po všechen čas a délku dní,
 Tvá dobrota mi žehná.
@@ -36,20 +57,10 @@ V Tvém domě zpívám s vděčností,
 má radost věčně trvá,
 má radost věčně trvá.
 
-[B]
-/: Ó  -  ó - ó,      haleluja, haleluja! :/
-Kytara: hraj s kapo. III.
-jako v Gdur
-sloka:
-
-[C]
-C  G  Em  D (3x)
-Bridge: C  D  Em  D/F#  G  D
-
 
 ]]>
     </lyrics>
-    <presentation>V1 V2 V3 V4 V5 B C</presentation>
+    <presentation>V1 V2 C1 V3 V4 C1 B C2 C1 V5</presentation>
     <author>I Am They</author>
     <ccli></ccli>
     <capo print="false"></capo>

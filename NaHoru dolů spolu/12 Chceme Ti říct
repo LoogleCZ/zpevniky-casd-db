@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=BTRevAqipac
+-->
 <song>
     <title>Chceme Ti říct</title>
     <copyright></copyright>
@@ -6,22 +10,23 @@
     <lyrics><![CDATA[
 [V1]
 Hospodine, přišli jsme Tě chválit,
-naše srdce Ti s láskou dát.
+naše srdce Ti s láskou dát.
 Víš, kde kdo si myslí, že jsme slabí
 a sami neumíme stát.
-Ref:
+
+[C]
 A tak Ti chceme říct,
 co pro nás znamenáš,
 že nejsi jenom lanem,
 kde chytnem se, když zklamem.
 Jsi pro nás mnohem víc,
 Tvá láska drží nás.
-Zveme Tě sem k nám,
+Zveme Tě sem k nám,
 jen málo Tebe znám, to vím.
 
 [V2]
 Hospodine, přišli jsme Tě chválit,
-naše ruce Ti s láskou dát.
+naše ruce Ti s láskou dát.
 Víš, chceme lidem sloužit
 a strach jim brát.
 
@@ -30,12 +35,13 @@ Hospodine, přišli jsme Tě chválit,
 to co trápí, Ti odevzdat.
 Vím, že Ty máš velkou moc
 a pokoj umíš dát.
-Coda:   Hospodine, vítej mezi námi a požehnej všem nám.
 
+[Coda]
+Hospodine, vítej mezi námi a požehnej všem nám.
 
 ]]>
     </lyrics>
-    <presentation>V1 V2 V3</presentation>
+    <presentation>V1 C V2 C V3 C Coda</presentation>
     <author>Jindřich Černohorský</author>
     <ccli></ccli>
     <capo print="false"></capo>

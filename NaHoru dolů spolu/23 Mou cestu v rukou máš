@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=BAwkGwm3N4A
+-->
 <song>
     <title>Mou cestu v rukou máš</title>
     <copyright></copyright>
@@ -16,15 +20,20 @@ vedeš mne slovem svým, jdu s důvěrou.
 I když musím projít temným údolím, jdu s důvěrou,
 vím, že zase postavíš mě pevně na své skále.
 
-[C]
+[C1]
 Každý den novou milost z Tvých dlaní smím si brát.
 Jako strom ve Tvém chrámu,
 v pevných zdech Tvé věrné lásky úkryt mám.
 
+[C2]
+Každý den novou milost z Tvých dlaní smím si brát.
+Jako strom ve Tvém chrámu,
+v pevných zdech Tvé věrné lásky úkryt mám,
+úkryt mám
 
 ]]>
     </lyrics>
-    <presentation>V1 V2 C</presentation>
+    <presentation>V1 V2 C1 V2 C2 C1</presentation>
     <author>John de Jong</author>
     <ccli></ccli>
     <capo print="false"></capo>

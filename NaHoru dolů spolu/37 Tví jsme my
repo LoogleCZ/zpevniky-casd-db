@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=TELmYkUGEC4
+-->
+<song>
+    <title>Tví jsme my</title>
+    <copyright></copyright>
+    <hymn_number>37</hymn_number>
+    <lyrics><![CDATA[
+[V1]
+Tví jsme my, nás shromáždila v jedno láska Tvá.
+Náš hlas zní, rodina Tvých dětí zpívá, Králi náš.
+
+[C1]
+Volá: Abba, Otče, velká moc je Tvá.
+Abba, Otče, velká moc je Tvá.
+
+[V2]
+Tví jsme my, zpíváme, vždyť nám vládne láska Tvá.
+Náš hlas zní, rodina Tvých dětí zpívá, Králi náš.
+
+[C2]
+Zpívá: Abba, Otče, svaté jméno Tvé.
+Abba, Otče, svaté jméno Tvé.
+
+
+]]>
+    </lyrics>
+    <presentation>V1 C1 V2 C2 C1 C1</presentation>
+    <author>Steve Hampton</author>
+    <ccli></ccli>
+    <capo print="false"></capo>
+    <key></key>
+    <aka></aka>
+    <key_line></key_line>
+    <user1></user1>
+    <user2></user2>
+    <user3></user3>
+    <theme></theme>
+    <tempo></tempo>
+    <time_sig></time_sig>
+</song>

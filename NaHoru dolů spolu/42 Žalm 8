@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=Y3OYhlfkyJw
+-->
 <song>
     <title>Žalm 8</title>
     <copyright></copyright>
@@ -11,7 +15,7 @@ Svou slávou jsi pokryl nebesa,
 chválou z úst kojenců a nemluvňat.
 
 [B]
-Když vidím Tvá nebes, dílo prstů Tvých,
+Když vidím Tvá nebesa, dílo prstů Tvých,
 měsíc a hvězdy, kterés tam umístil. Co je člověk,
 
 [C]
@@ -29,7 +33,7 @@ k našim nohám jsi vše složil.
 
 ]]>
     </lyrics>
-    <presentation>V1 B C V2 B C</presentation>
+    <presentation>V1 B C V2 B C C V1 V2 B C C</presentation>
     <author>Jakub Pípal</author>
     <ccli></ccli>
     <capo print="false"></capo>

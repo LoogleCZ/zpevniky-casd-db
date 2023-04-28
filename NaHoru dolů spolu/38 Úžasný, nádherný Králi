@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=_eo_tFHzebE
+-->
 <song>
     <title>Úžasný, nádherný Králi</title>
     <copyright></copyright>
@@ -11,36 +15,30 @@ Beránku daný za hříchy,
 mě zachrání láska Tvá,
 ó, mě zachrání láska Tvá.
 
-[C]
-Jediný hoden jsi chvály, jediný vyvýšený.
-Nabízíš náruč své lásky, svou milost, své spasení,
-ó, svou milost, své spasení.
-
 [V2]
 Ochránce můj, Duchu slávy,
 toužím po objetí Tvém.
 Jsi se mnou, když srdce mé bloudí
 a ztratilo správný směr,
-ó, když ztratilo správný sm
-ě
-r.
+ó, když ztratilo správný směr.
+
+[C]
+Jediný hoden jsi chvály, jediný vyvýšený.
+Nabízíš náruč své lásky, svou milost, své spasení,
+ó, svou milost, své spasení.
 
 [V3]
 Všemocný Otče náš vzácný,
 věrný a milující,
-v slabosti své p
-ř
-ed Tvou tváří,
-klekám p
-ř
-ed trůnem Tvým,
+v slabosti své před Tvou tváří,
+klekám před trůnem Tvým,
 ó, já klekám před trůnem Tvým.
 
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <author></author>
+    <presentation>V1 V2 C V3 C C</presentation>
+    <author>Dawn Rodgers, Eric Wyse</author>
     <ccli></ccli>
     <capo print="false"></capo>
     <key></key>

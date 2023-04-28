@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=5j1PNrA2sHk
+-->
 <song>
     <title>Volejte všichni lidé</title>
     <copyright></copyright>
@@ -13,7 +17,8 @@ v hrozné moci své přichází!
 [C]
 Náš Bůh je krásný, nejvyšší, nikdy neopustí nás,
 Volejte všichni lidé, hlaste národům země!
-Coda:
+
+[Coda]
 O - o,  o - ó, o - o, o - ó
 o - o, o - ó  o - o, o - ó,   o!
 
@@ -26,7 +31,7 @@ v hrozné síle své přichází!
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 C</presentation>
+    <presentation>V1 C C Coda V2 C C C C Coda</presentation>
     <author>Jakub Pípal</author>
     <ccli></ccli>
     <capo print="false"></capo>

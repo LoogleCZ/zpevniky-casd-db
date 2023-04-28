@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=aH2eDhDeM7Q
+-->
 <song>
     <title>Adonai</title>
     <copyright></copyright>
@@ -9,6 +13,8 @@ Ty jsi Král králů, Ty jsi Vítěz vítězů,
 Tebe chválím, Tebe ctím.
 Ty jsi Pán Pánů, Ty máš nejvyšší trůn,
 Tebe vzývám, velebím.
+
+[P]
 Nebe chválu vzdává, andělé jásají.
 Vylej požehnání, voláme jméno Ježíš.
 
@@ -25,7 +31,7 @@ mocí svou bezbřehou.
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 C</presentation>
+    <presentation>V1 P C C V2 P C C C C</presentation>
     <author>Jakub Pípal</author>
     <ccli></ccli>
     <capo print="false"></capo>

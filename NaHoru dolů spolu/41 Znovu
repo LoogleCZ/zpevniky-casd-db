@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=KuljwPcKgj4
+-->
 <song>
     <title>Znovu</title>
     <copyright></copyright>
@@ -28,7 +32,7 @@ díky za Tvé přátelství.
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 B C</presentation>
+    <presentation>V1 C V2 C C B B C</presentation>
     <author>Matt Redman</author>
     <ccli></ccli>
     <capo print="false"></capo>

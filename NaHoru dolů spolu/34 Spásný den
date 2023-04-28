@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=yD8QtuF_Uf0
+-->
 <song>
     <title>Spásný den</title>
     <copyright></copyright>
     <hymn_number>34</hymn_number>
     <lyrics><![CDATA[
+[B]
+Wo-ou, Wo-ou, o-o-o-o
+Wo-ou, Wo-ou, o-o-o-o
+Wo-ou, Wo-ou, o-o-o-o
+Wo-ou, o-o-o-o, o-o-o-o
+
 [V1]
 Ty jsi vzkříšen mohu vstát.
 Když jsi živý, smím jít dál.
 Tvůj kříž je tak všemocný,
 vstal jsi z hrobu vítězný.
 Nemusím se nikdy vzdát.
-
-[B]
-Wo-ou, Wo-ou, o-o-o-o
-Wo-ou, Wo-ou, o-o-o-o
-Wo-ou, Wo-ou, o-o-o-o
-Wo-ou, o-o-o-o, o-o-o-o
 
 [C]
 To je můj, můj spásný den,
@@ -34,8 +38,8 @@ Smrt jsi láskou překonal,
 nepřátele udolal.
 Nemusím se nikdy vzdát.
 Nemusím se vzdát!
-Mezihra:
-Coda:
+
+[Coda]
 Zpráva je to dobrá,
 Ty jsi zvolil drsný kříž
 Zpráva je to dobrá,
@@ -44,13 +48,11 @@ V Tvém slovu je ta síla,
 která všechny zachrání.
 Nemusím se nikdy vzdát,
 no tak, nemusíš se vzdát.
-2x Ref
-Bridge
 
 
 ]]>
     </lyrics>
-    <presentation>V1 B C V2 B C</presentation>
+    <presentation>B V1 C B V2 C Coda C C B</presentation>
     <author>Ed Cash & Rend Collective</author>
     <ccli></ccli>
     <capo print="false"></capo>
