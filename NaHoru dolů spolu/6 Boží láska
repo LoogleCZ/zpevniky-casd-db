@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=Zd19r0HBi-g
+-->
 <song>
     <title>Boží láska</title>
     <copyright></copyright>
     <hymn_number>6</hymn_number>
     <lyrics><![CDATA[
+[V1]
+ Já chtěl bych Ti dnes vyzpívat,
+ svůj obdiv, lásku co v sobě mám,
+ že s každým z nás se probouzíš a usínáš.
 
+[C1]
+ Jsi Bohem, který má nás rád,
+ Jsi Bohem, který může dát,
+ pro každý nový den,
+ víru pro celou naši zem.
+
+[C2]
+ Jsi Bohem, který neváhal,
+ Jsi Bohem, který sám se dal,
+ na kříži potupy,
+ dolů z nebe k nám sestoupil.
+
+[B]
+ On volá, On volá, On volá každého z nás.
+ On volá, On volá, On volá každého z nás.
+ On volá, On volá, On volá každého z nás.
 ]]>
     </lyrics>
-    <presentation></presentation>
+    <presentation>V1 V1 C1 C2 V1 C1 C2 B C1 C2</presentation>
     <author>Paul Baloche</author>
     <ccli></ccli>
     <capo print="false"></capo>
