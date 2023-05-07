@@ -1,41 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=9ky83jEZe7k
+-->
 <song>
     <title>Kdy přijde Immanuel</title>
     <copyright></copyright>
     <hymn_number>20</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Kdy přijde zas Im - ma -nu - el?
-A vysvobodí Iz - ra - el,
-jež v zajetí už lé - ta je.
-A dopřeje mu po - ko - je.
+ Kdy přijde zas Immanuel?
+ A vysvobodí Izrael,
+ jež v zajetí už léta je.
+ A dopřeje mu pokoje.
 
 [C]
-/: Ježíš, Ježíš, Im - ma - nu - el.   On přichází pro Iz - ra - el. :/
+ Ježíš, Ježíš, Immanuel.
+ On přichází pro Izrael.
 
 [V2]
-Moudrosti shůry k svému lidu přijď,
-a naprav křivdu, sejmi vinu, hřích.
-Nám všem svým dětem zjev pravdu svou,
-ať její cesty k Tobě dovedou.
+ Moudrosti shůry k svému lidu přijď,
+ a naprav křivdu, sejmi vinu, hřích.
+ Nám všem svým dětem zjev pravdu svou,
+ ať její cesty k Tobě dovedou.
 
 [V3]
-Přijď Touho celé země národů,
-spoj v jedno milióny pohledů.
-Ať spory, války, pře ustanou,
-Tvůj pokoj, láska v zemi zavládnou.
+ Přijď Touho celé země národů,
+ spoj v jedno milióny pohledů.
+ Ať spory, války, pře ustanou,
+ Tvůj pokoj, láska v zemi zavládnou.
 
 [B]
-(4x)
-Outro:
-/: Přijď k nám :/
-/: Ó  -  ó  -  ó  -  ó :/
-Kytara: může hrát s kapo. VII od Em
-
+ Přijď k nám
+ Přijď k nám
+ Přijď k nám
+ Přijď k nám
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 C V3 B C</presentation>
+    <presentation>V1 C V2 C C V3 C C B</presentation>
     <author>neznámý (12. stol.)</author>
     <ccli></ccli>
     <capo print="false"></capo>

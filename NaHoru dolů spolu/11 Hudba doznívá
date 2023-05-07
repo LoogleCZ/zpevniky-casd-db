@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=FJyjE8Z3j1Y
+-->
 <song>
     <title>Hudba doznívá</title>
     <copyright></copyright>
     <hymn_number>11</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Hudba doznívá, k Tobě přicházím,
-chci jen Tebe znát.
-Přinést něco snad, co pravou cenu má,
-co bys ty měl rád.
+ Hudba doznívá,
+ k Tobě přicházím,
+ chci jen Tebe znát.
+ Přinést něco snad,
+ co pravou cenu má,
+ co bys ty měl rád.
 
 [B]
-Chci víc než píseň Ti dát, nejen prázdná slova.
-Co víc než sebe Ti dám?
-Ty zkoumáš hlubiny mé, skryté nic Ti není,
-Ty vidíš, co v srdci mám.
+ Chci víc než píseň Ti dát,
+ nejen prázdná slova.
+ Co víc než sebe Ti dám?
+ Ty zkoumáš hlubiny mé,
+ skryté nic Ti není,
+ Ty vidíš, co v srdci mám.
 
 [C]
-Toužím teď do srdce chvály vstoupit,
-kde jsi jedině Ty,   jedině Ty, Ježíši.
-Přiznávám, Pane, že vždy nejsem věrný,
-to jsi jedině Ty,   jedině Ty, Ježíši.
+ Toužím teď do srdce chvály vstoupit,
+ kde jsi jedině Ty, jedině Ty, Ježíši.
+ Přiznávám, Pane, že vždy nejsem věrný,
+ to jsi jedině Ty, jedině Ty, Ježíši.
 
 [V2]
-Ty jsi věčný Král, kdo jen vyjádří,
-co Ti náleží?
-I když slabý jsem, Pane, vše si vem,
-každý dech je Tvůj.
+ Ty jsi věčný Král,
+ kdo jen vyjádří,
+ co Ti náleží?
+ I když slabý jsem,
+ Pane, vše si vem,
+ každý dech je Tvůj.
 
 
 ]]>
     </lyrics>
-    <presentation>V1 B C V2 B C</presentation>
+    <presentation>V1 B C V2 B C C C</presentation>
     <author>Matt Redman</author>
     <ccli></ccli>
     <capo print="false"></capo>

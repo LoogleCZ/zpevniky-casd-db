@@ -1,34 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED - CZ not found :/
+    Check: https://www.youtube.com/watch?v=IIwCDYWOEQ4
+-->
 <song>
     <title>Šalom</title>
     <copyright></copyright>
     <hymn_number>35</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Slunce zapadá víkend začíná,
-pokoj přichází sem k nám.
-Rodina se sejde, celičká,
-zpívá: Shabbat Shalom!  -
-každý ať zpívá:
+ Slunce zapadá víkend začíná,
+ pokoj přichází sem k nám.
+ Rodina se sejde, celičká,
+ zpívá: Shabbat Shalom! - každý ať zpívá:
+
+[C1]
+ Shalom! Shalom! Shalom! Shalom!
 
 [V2]
-Vždyť každý den je dar od Pána,
-tak se krásně usmívej.
-On má celý svět, v rukou svých,
-tak dbej rad Božích  -
-a budeš vždy mít:
-Ref.2.:
-Shalom!  Shalom! Shalom! Shalom!
-Mezihra:
-Lai, lai, lai, lai, lai, lai,…
-Shalom!  Shalom! Shalom! Shalom!
-Lai, lai, lai, lai, lai, lai,…
-Akordy pro ukulele:
+ Vždyť každý den je dar od Pána,
+ tak se krásně usmívej.
+ On má celý svět, v rukou svých,
+ tak dbej rad Božích - a budeš vždy mít:
+
+[C2]
+ Shalom! Shalom! Shalom! Shalom!
+ Lai, lai, lai, lai, lai, lai,…
+ Shalom! Shalom! Shalom! Shalom!
+ Lai, lai, lai, lai, lai, lai,…
 
 
 ]]>
     </lyrics>
-    <presentation>V1 V2</presentation>
+    <presentation>V1 C1 V2 C2</presentation>
     <author>Joshua Aaron</author>
     <ccli></ccli>
     <capo print="false"></capo>
