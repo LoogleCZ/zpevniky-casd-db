@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    video: https://www.youtube.com/watch?v=wnpq217hp8g
+-->
+<song>
+    <title>Jdu k Tobě, Pane</title>
+    <copyright></copyright>
+    <hymn_number>53</hymn_number>
+    <lyrics><![CDATA[
+[V1]
+ Stačí se nadechnout,
+ jenom se rozhlédnout.
+ Cítím, jsi blízko, Pan můj svatý.
+
+[V2]
+ Ty můj jsi denní chléb,
+ Ty strážce mých jsi cest.
+ Slyším, jsi blízko, Pan můj svatý.
+
+[B]
+ A já... po Tobě toužím
+ A já... bez Tebe bloudím
+
+]]>
+    </lyrics>
+    <presentation>V1 V2 B V1 V2 B</presentation>
+    <author></author>
+    <ccli></ccli>
+    <capo print="false"></capo>
+    <key></key>
+    <aka></aka>
+    <key_line></key_line>
+    <user1></user1>
+    <user2></user2>
+    <user3></user3>
+    <theme></theme>
+    <tempo></tempo>
+    <time_sig></time_sig>
+</song>
