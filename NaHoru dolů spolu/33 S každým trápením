@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=dZQO6LRW04g
+-->
 <song>
     <title>S každým trápením</title>
     <copyright></copyright>
     <hymn_number>33</hymn_number>
     <lyrics><![CDATA[
 [V1]
-S každým trápením mám za kým jít.
-V bojích, v souženích Ty jsi můj štít,
-můj štít, Skála věků, bezpečí,
-má skrýš, kde smím se skrýt.
-Čím víc poznávám tvou lásku, chci Ti říct,
+ S každým trápením mám za kým jít.
+ V bojích, v souženích Ty jsi můj štít,
+ můj štít, Skála věků, bezpečí,
+ má skrýš, kde smím se skrýt.
+ Čím víc poznávám tvou lásku, chci Ti říct,
 
 [C]
-můj Králi: Svou chválu Ti vzdám, svou chválu Ti vzdám.
-Jsi dobrý Bůh a nádherný a láska Tvá je tak úžasná, já vím.
+ Můj Králi: Svou chválu Ti vzdám, svou chválu Ti vzdám.
+ Jsi dobrý Bůh a nádherný a láska Tvá je tak úžasná, já vím.
 
 
 ]]>
     </lyrics>
-    <presentation>V1 C</presentation>
+    <presentation>V1 C V1 C</presentation>
     <author>Bob Fitts</author>
     <ccli></ccli>
     <capo print="false"></capo>

@@ -1,43 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=6dpaVdn8RMk
+-->
 <song>
     <title>Chval Pána na výšinách</title>
     <copyright></copyright>
     <hymn_number>14</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Když jsi sám a zkoušený,
-když jsi zklamán přátelstvím,
-nebo láskou zkoušený
-a s hlavou v oblacích.
+ Když jsi sám a zkoušený,
+ když jsi zklamán přátelstvím,
+ nebo láskou zkoušený
+ a s hlavou v oblacích.
 
 [C]
-Chval Pána na výšinách,
-zpívej do všech světa stran
-Ježíš je zachránce všech,
-nebe, země i nás.
+ Chval Pána na výšinách,
+ zpívej do všech světa stran
+ Ježíš je zachránce všech,
+ nebe, země i nás.
 
 [V2]
-Boží syn je králů Král,
-na kříži se slávy vzdal,
-z hrobu vítězný pak vstal,
-naši lásku by si přál.
+ Boží syn je králů Král,
+ na kříži se slávy vzdal,
+ z hrobu vítězný pak vstal,
+ naši lásku by si přál.
 
 [V3]
-Když mě síly opouští,
-Boží láska odpouští,
-když se úděl těžký zdá,
-milost Pána křídla dá.
-Coda:
-Byli jsme daleko, tma byla v nás
-byli jsme sami a vládl tu mráz,
-žili jsme v marnosti bez lásky Tvé
-spasit přišel jsi děti své.
+ Když mě síly opouští,
+ Boží láska odpouští,
+ když se úděl těžký zdá,
+ milost Pána křídla dá.
+
+[B]
+ Byli jsme daleko, tma byla v nás
+ byli jsme sami a vládl tu mráz,
+ žili jsme v marnosti bez lásky Tvé
+ spasit přišel jsi děti své.
 
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <author>Martin Smith & Delirious?</author>
+    <presentation>V1 C V2 C V3 C B C C</presentation>
+    <author>Martin Smith, Delirious?</author>
     <ccli></ccli>
     <capo print="false"></capo>
     <key></key>

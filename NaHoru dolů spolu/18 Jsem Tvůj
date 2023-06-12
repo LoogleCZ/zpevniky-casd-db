@@ -1,43 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=rE-LfpTylVg
+-->
 <song>
     <title>Jsem Tvůj</title>
     <copyright></copyright>
     <hymn_number>18</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Ty jsi svatý, věčně živý,
-Jsi Stvořitel, můj Spasitel a Bůh.
-Ty jsi pokoj, sílu dáváš,
-jsi oporou, když mé ruce slábnou.
+ Ty jsi svatý, věčně živý,
+ Jsi Stvořitel, můj Spasitel a Bůh.
+ Ty jsi pokoj, sílu dáváš,
+ jsi oporou, když mé ruce slábnou.
 
 [B]
-Už vím, kdo jsi, můj Bůh.
-Teď dám, co mám, jsem Tvůj,
-jenom Tvůj.
+ Už vím, kdo jsi, můj Bůh.
+ Teď dám, co mám, jsem Tvůj,
+ jenom Tvůj.
 
-[C]
-Vezmi celý život můj, a změň ho k slávě Tvé,
-ať žiji pro druhé a ne jen pro sebe,
-stvoř mi srdce citlivé, dej mu otisk lásky své,
-ať je vždy laskavé a bije pro Tebe,
-ať žije pro Tebe, Pane.
+[C1]
+ Vezmi celý život můj, a změň ho k slávě Tvé,
+ ať žiji pro druhé a ne jen pro sebe,
+ stvoř mi srdce citlivé, dej mu otisk lásky své,
+ ať je vždy laskavé a bije pro Tebe,
+ ať žije pro Tebe, Pane.
 
 [V2]
-Ty jsi kázal, druhým dával,
-chromí chodí, slepí vidí Tvou tvář.
-Ty jsi Ježíš, syn Boží,
-dals život svůj, bych mohl věčně žít.
+ Ty jsi kázal, druhým dával,
+ chromí chodí, slepí vidí Tvou tvář.
+ Ty jsi Ježíš, syn Boží,
+ dals život svůj, bych mohl věčně žít.
 
 [V3]
-Ty jsi slíbil, že se vrátíš,
-zde na zem k nám, tak s vírou čekám dál.
-Ty jsi věrný, plníš sliby,
-dnes naplň nás, tak Duchu Svatý přijď.
+ Ty jsi slíbil, že se vrátíš,
+ zde na zem k nám, tak s vírou čekám dál.
+ Ty jsi věrný, plníš sliby,
+ dnes naplň nás, tak Duchu Svatý přijď.
 
+[C2]
+ Vezmi celý život můj, a změň ho k slávě Tvé,
+ ať žiji pro druhé a ne jen pro sebe,
+ stvoř mi srdce citlivé, dej mu otisk lásky své,
+ ať je vždy laskavé a bije pro Tebe.
 
 ]]>
     </lyrics>
-    <presentation>V1 B C V2 B C V3 B C</presentation>
+    <presentation>V1 B C1 V2 B C1 V3 B C2 C1</presentation>
     <author>David Kogut</author>
     <ccli></ccli>
     <capo print="false"></capo>

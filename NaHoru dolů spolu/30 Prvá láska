@@ -1,38 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=xrusZ-MkTn4
+-->
 <song>
     <title>Prvá láska</title>
     <copyright></copyright>
     <hymn_number>30</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Zas prichádzam s tým, čo mám,
-očisť ma v hĺbke sám.
-Duch zjavuje mi pravdu o mne, Teba zriem.
-Zbytočných príkras zbav,
-nechaj mi len Teba.
-Vrátiť sa chcem k láske prvej, k Tebe len...
+ Zas prichádzam s tým, čo mám,
+ očisť ma v hĺbke sám.
+ Duch zjavuje mi pravdu o mne, Teba zriem.
+ Zbytočných príkras zbav,
+ nechaj mi len Teba.
+ Vrátiť sa chcem k láske prvej, k Tebe len...
 
 [C]
-K Tvojej sláve žiť chcem, dám všetko, čo viem,
-nech vôňou Ti je moja chvála.
-S Tebou navždy byť smiem, môj spev nestíchne.
-Zo srdca Ti znie: Teba rád mám.
+ K Tvojej sláve žiť chcem, dám všetko, čo viem,
+ nech vôňou Ti je moja chvála.
+ S Tebou navždy byť smiem, môj spev nestíchne.
+ Zo srdca Ti znie: Teba rád mám.
 
 [V2]
-Aj keď hlas mám zlámaný,
-k Tebe s ním môžem prísť.
-Z rán vytryskne prúd chvály živej, radostnej.
-A tak s vierou dieťaťa,
-som si už smer vybral.
-Dnes vraciam sa späť k láske prvej, k Tebe len...
+ Aj keď hlas mám zlámaný,
+ k Tebe s ním môžem prísť.
+ Z rán vytryskne prúd chvály živej, radostnej.
+ A tak s vierou dieťaťa,
+ som si už smer vybral.
+ Dnes vraciam sa späť k láske prvej, k Tebe len...
 
 [B]
-/: Teba rád mám, prvá láska, večná, stála, drž ma sám. :/
+ Teba rád mám, prvá láska, večná, stála, drž ma sám.
+ Teba rád mám, prvá láska, večná, stála, drž ma sám.
 
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 B C</presentation>
+    <presentation>V1 C V2 C B C</presentation>
     <author>Rend Collective</author>
     <ccli></ccli>
     <capo print="false"></capo>

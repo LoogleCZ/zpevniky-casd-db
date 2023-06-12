@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=fRI0MVqZr-A
+-->
 <song>
     <title>Jistota vzácná</title>
     <copyright></copyright>
     <hymn_number>17</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Jistota vzácná, Ježíš je můj,
-nebeský dává pokoj mi svůj.
-Dědic jsem spásy, vykoupený,
-zrozený z Ducha, očištěný.
-
-[C]
-Proto jej chválím, chci mu dík vzdát,
-velice toužím, lépe jej znát.
-Uchvácen vírou, pochopit smím,
-že je mou spásou, Zachráncem mým.
+ Jistota vzácná, Ježíš je můj,
+ nebeský dává pokoj mi svůj.
+ Dědic jsem spásy, vykoupený,
+ zrozený z Ducha, očištěný.
 
 [V2]
-Oddaný Pánu, radost v něm mám,
-vidím jej vírou, přichází k nám.
-Andělskou písní ozvěna zní:
-Spasen jsem láskou, milost je v ní.
+ Oddaný Pánu, radost v něm mám,
+ vidím jej vírou, přichází k nám.
+ Andělskou písní ozvěna zní:
+ Spasen jsem láskou, milost je v ní.
+
+[C]
+ Proto jej chválím, chci mu dík vzdát,
+ velice toužím, lépe jej znát.
+ Uchvácen vírou, pochopit smím,
+ že je mou spásou, Zachráncem mým.
 
 [V3]
-Již patřím Pánu, mír mi dal svůj,
-žehná mi stále Spasitel můj.
-K nebesům vzhlížím, očekávám,
-že už se vrátí můj dobrý Pán.
-
+ Již patřím Pánu, mír mi dal svůj,
+ žehná mi stále Spasitel můj.
+ K nebesům vzhlížím, očekávám,
+ že už se vrátí můj dobrý Pán.
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <author></author>
+    <presentation>V1 V2 C V3 C C</presentation>
+    <author>P. Knapp</author>
     <ccli></ccli>
     <capo print="false"></capo>
     <key></key>

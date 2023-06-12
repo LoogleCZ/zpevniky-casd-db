@@ -1,49 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=LlXe0w5AzrY
+-->
 <song>
     <title>Můj Spasitel, můj Bůh</title>
     <copyright></copyright>
     <hymn_number>25</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Je pro mě stále záhadné,
-co všechno ve Tvých plánech je.
-Však vím že po pravici Tvé,
-Sedí ten, kdo mě má rád.
+ Je pro mě stále záhadné,
+ co všechno ve Tvých plánech je.
+ Však vím že po pravici Tvé,
+ Sedí ten, kdo mě má rád.
 
 [V2]
-Svou slávu v nebi opustil,
-můj hřích mi cele odpustil.
-Tak zvláštní plán Bůh dokonal,
-než jsem Spasitele znal.
+ Svou slávu v nebi opustil,
+ můj hřích mi cele odpustil.
+ Tak zvláštní plán Bůh dokonal,
+ než jsem Spasitele znal.
 
 [B]
-On pro mne z velké lásky své,
-dal život svůj na Golgotě.
-Proto teď touží srdce mé,
-zpívat o lásce Tvé.
+ On pro mne z velké lásky své,
+ dal život svůj na Golgotě.
+ Proto teď touží srdce mé,
+ zpívat o lásce Tvé.
 
-[C]
-Bůh o mě ví, nade mnou bdí
-a rukou svou mne ochrání.
-Bůh o mě ví, on rozumí
-a láskou svou mne zachrání.
+[C1]
+ Bůh o mě ví, nade mnou bdí
+ a rukou svou mne ochrání.
+ Bůh o mě ví, on rozumí
+ a láskou svou mne zachrání.
+
+[C2]
+ Můj Bůh vždy chtěl,
+ můj Bůh vždy chce,
+ On o mě stále bojuje.
+ Můj Spasitel,
+ můj Léčitel,
+ můj Bůh tu pro mě stále je.
 
 [V3]
-Vždyť On mne stále miluje,
-mou silou v těžkých časech je.
-V žilách mi krev Tvá koluje,
-teď půjdu cestou Krále.
-Můj Bůh vždy chtěl,
-můj Bůh vždy chce,
-On o mě stále bojuje.
-Můj Spasitel,
-můj Léčitel,
-můj Bůh tu pro mě stále je.
-
+ Vždyť On mne stále miluje,
+ mou silou v těžkých časech je.
+ V žilách mi krev Tvá koluje,
+ teď půjdu cestou Krále.
 
 ]]>
     </lyrics>
-    <presentation>V1 V2 B C V3 B C</presentation>
+    <presentation>V1 V2 B C1 C2 V3 B C1 C2 C1 C2 C1 C2 V1</presentation>
     <author>Aaron Shust</author>
     <ccli></ccli>
     <capo print="false"></capo>

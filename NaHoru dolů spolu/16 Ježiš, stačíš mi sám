@@ -1,36 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=HZ-KhJi4YMU
+-->
 <song>
     <title>Ježiš, stačíš mi sám</title>
     <copyright></copyright>
     <hymn_number>16</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Odmenou je Pán tým, čo v Ňom majú nádej.
-A tým, čo Ho hľadajú, sa rád spoznať dá.
-Aj v skúškách dní chcem zostať s Ním.
-nehľadím späť, som slobodný.
+ Odmenou je Pán tým, čo v Ňom majú nádej.
+ A tým, čo Ho hľadajú, sa rád spoznať dá.
+ Aj v skúškách dní chcem zostať s Ním.
+ nehľadím späť, som slobodný.
 
 [C]
-Ježiš, stačíš mi sám. Ježiš, stačíš mi sám.
-Všetko v Tebe mám, viac nechcem.
-Všetko v Tebe mám.
+ Ježiš, stačíš mi sám. Ježiš, stačíš mi sám.
+ Všetko v Tebe mám, viac nechcem.
+ Všetko v Tebe mám.
 
 [V2]
-S prosbou pricházam, chcem radosť prežívať.
-Všetko s Ním chcem zažívať a v nebi domov mať.
-Aj v chvíľach zlých, chcem byť verný.
-Ježiš je tu, buď oslavený.
-mezihra:
-Coda:
-Odteraz túžim s Ježišom kráčať,
-nehľadím späť, nehľadím späť. (2x)
-Kríž je mi spásou, svet slávou márnou,
-nehľadím späť, nehľadím späť. (2x)
+ S prosbou pricházam, chcem radosť prežívať.
+ Všetko s Ním chcem zažívať a v nebi domov mať.
+ Aj v chvíľach zlých, chcem byť verný.
+ Ježiš je tu, buď oslavený.
+
+[B1]
+ Odteraz túžim s Ježišom kráčať,
+ nehľadím späť, nehľadím späť.
+ Odteraz túžim s Ježišom kráčať,
+ nehľadím späť, nehľadím späť.
+
+[B2]
+ Kríž je mi spásou, svet slávou márnou,
+ nehľadím späť, nehľadím späť.
+ Kríž je mi spásou, svet slávou márnou,
+ nehľadím späť, nehľadím späť.
+
+[B3]
+ Nehľadím späť, nehľadím späť.
 
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 C</presentation>
+    <presentation>V1 C V2 C C B1 B2 B3 C</presentation>
     <author></author>
     <ccli></ccli>
     <capo print="false"></capo>

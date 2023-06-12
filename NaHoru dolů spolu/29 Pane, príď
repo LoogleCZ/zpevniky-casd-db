@@ -1,38 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=jCtrOxAZkP8
+-->
 <song>
     <title>Pane, príď...</title>
     <copyright></copyright>
     <hymn_number>29</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Vidím mesto nádherné, spolu v ňom raz budeme,
-v jeho strede skvie sa večný trón.
-Novú pieseň spasených, akú svet nikdy nezažil,
-jedným hlasom k Tebe vyšleme...
+ Vidím mesto nádherné, spolu v ňom raz budeme,
+ v jeho strede skvie sa večný trón.
+ Novú pieseň spasených, akú svet nikdy nezažil,
+ jedným hlasom k Tebe vyšleme...
 
 [C]
-Tebe chválu vzdáme,
-keď úplne pochopíme, kým Ty si.
-Pred Tebou stáť raz budeme,
-dovtedy chceme volať: „Pane, príď...“
+ Tebe chválu vzdáme,
+ keď úplne pochopíme, kým Ty si.
+ Pred Tebou stáť raz budeme,
+ dovtedy chceme volať: „Pane, príď...“
 
 [V2]
-Tvoju krásu uvidím, hĺbku lásky pocítim,
-zistím, čo ťa stálo mať ma späť.
-Navždy vďačnosť zavládne v srdci, kde už nie je hriech,
-všetko staré bude zmenené...
-Bridge 1:
-Odnímeš smrti tieň, nebude viac žiaľ, slzavé údolie.
-Najväčší bude dar to, že každý deň nám dáš vidieť Tvoju tvár.
-Bridge 2:
-Ooo – ooo, ooo – ooo, nebo spieva haleluja,
-Tebe, Kráľ náš: Hale – luuu –  ja...
+ Tvoju krásu uvidím, hĺbku lásky pocítim,
+ zistím, čo ťa stálo mať ma späť.
+ Navždy vďačnosť zavládne v srdci, kde už nie je hriech,
+ všetko staré bude zmenené...
+
+[B1]
+ Odnímeš smrti tieň, nebude viac žiaľ, slzavé údolie.
+ Najväčší bude dar to, že každý deň nám dáš vidieť Tvoju tvár.
+
+[B2]
+ Ooo – ooo, ooo – ooo, nebo spieva haleluja,
+ Tebe, Kráľ náš: Hale – luuu – ja...
 
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 C</presentation>
-    <author></author>
+    <presentation>V1 C V2 C B1 C B2 C C</presentation>
+    <author>Matt Redman, Jonas Myrin, Chris Tomlin, Tim Wanstall</author>
     <ccli></ccli>
     <capo print="false"></capo>
     <key></key>

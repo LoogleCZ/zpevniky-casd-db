@@ -1,36 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+    FIXED
+    Check: https://www.youtube.com/watch?v=pkZo_I078vo
+-->
 <song>
     <title>Smím stát</title>
     <copyright></copyright>
     <hymn_number>31</hymn_number>
     <lyrics><![CDATA[
 [V1]
-Před stvořením jsi tu vládnul,
-věčnost jsi měl v rukou svých.
-Slovem jsi dal zemi krásu, a teď tu stát smím.
-Ty jsi tu byl před mým pádem,
-kvůli mně sám nesl kříž.
-Trpěl jsi sám za můj hřích a dnes tu stát smím.
-
-[C]
-Tak co můžu říct,        co můžu dát,
-než své srdce vzít     a Tobě ho dát.
+ Před stvořením jsi tu vládnul,
+ věčnost jsi měl v rukou svých.
+ Slovem jsi dal zemi krásu, a teď tu stát smím.
 
 [V2]
-Spasený dále chci kráčet,
-Tvůj Duch přebývá v srdci mém.
-Tvá zaslíbení chci všem hlásat, a dnes tu stát smím.
+ Ty jsi tu byl před mým pádem,
+ kvůli mně sám nesl kříž.
+ Trpěl jsi sám za můj hřích a dnes tu stát smím.
+
+[C]
+ Tak co můžu říct,
+ co můžu dát,
+ než své srdce vzít
+ a Tobě ho dát?
+
+[V3]
+ Spasený dále chci kráčet,
+ Tvůj Duch přebývá v srdci mém.
+ Tvá zaslíbení chci všem hlásat,
+ a dnes tu stát smím.
 
 [B]
-Smím stát, pozvedám k nebi svoje ruce,
-v úctě, před tím, kdo dal vše, co měl,
-smím stát, Tobě má duše patří, Pane,
-vše co mám je Tvé.   (2x)
+ Smím stát, pozvedám k nebi svoje ruce,
+ v úctě, před tím, kdo dal vše, co měl,
+ smím stát, Tobě má duše patří, Pane,
+ vše co mám je Tvé.
 
 
 ]]>
     </lyrics>
-    <presentation>V1 C V2 B C</presentation>
+    <presentation>V1 V2 C V3 C C B B B B</presentation>
     <author>Rend Collective</author>
     <ccli></ccli>
     <capo print="false"></capo>
